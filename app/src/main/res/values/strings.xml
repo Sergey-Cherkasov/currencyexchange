@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Exchange Rate</string>
+    <string name="sale_title">Продажа</string>
+    <string name="buy_title">Покупка</string>
+</resources>
